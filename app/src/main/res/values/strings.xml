@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MineSweeper</string>
+    <string name="reset_game">Reset Game</string>
+    <string name="you_win">You Win!</string>
+    <string name="game_over_try_again">Game Over. Try Again!</string>
+    <string name="minesweeper_game">Minesweeper Game!!!</string>
+    <string name="place_flag_mode">Place Flag Mode</string>
+    <string name="try_field_mode">Try Field Mode</string>
+    <string name="mine">Mine</string>
+    <string name="flag">Flag</string>
+</resources>
